@@ -2,9 +2,6 @@
 
 An elegant mathematical formula for creating a saturated spiral vortex, visualized with the Manim animation engine. This project explores the properties of the vortex and provides animations explaining its behavior.
 
-![Demo Animation](leonov-vortex-demo.gif)
-*(To add this animation, upload the GIF to the repository and make sure the filename matches)*
-
 ---
 
 ### The Formula
