@@ -24,21 +24,6 @@ Where:
 
 - `test_formula.py`: A Python script with unit tests to verify the mathematical properties of the formula.
 
-### How to Run
-
-1.  Make sure you have Manim Community and its dependencies installed.
-    ```bash
-    pip install manim
-    ```
-2.  To render an animation, run:
-    ```bash
-    manim -pqh <filename.py> <SceneName>
-    ```
-    For example:
-    ```bash
-    manim -pql explain_vortex.py ExplainVortex
-    ```
-
 ### License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
