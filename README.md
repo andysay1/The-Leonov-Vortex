@@ -22,8 +22,6 @@ Where:
 
 ### Code Files
 
-- `vortex_animation.py`: A Manim scene that animates the birth and rotation of the vortex.
-- `explain_vortex.py`: A Manim scene that visually explains how each part of the formula contributes to the final result.
 - `test_formula.py`: A Python script with unit tests to verify the mathematical properties of the formula.
 
 ### How to Run
